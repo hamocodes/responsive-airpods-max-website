@@ -1,0 +1,96 @@
+========== HEADER ==========
+.nav__logo
+Apple
+
+.nav__link
+Home - About - Accesories - Support
+
+
+========== HOME ==========
+.home__title
+A P M
+
+.home__tooltip
+$549.00
+
+.home__button
+Buy Now
+
+.home__social-text
+Follow us
+
+.home__social-link
+https://www.instagram.com/
+https://www.facebook.com/
+https://www.x.com/
+
+
+========== ABOUT ==========
+.section__title
+AirPods Max
+
+.about__description
+Introducing AirPods Max — a perfect balance of
+exhilarating high-fidelity audio and the effortless magic of
+AirPods. The ultimate personal listening experience is here.
+
+.button
+Know More
+
+
+========== FAVORITE ==========
+.section__title
+CHOOSE YOUR COLOR
+
+.favorite__model
+Silver
+Space Gray
+Pink
+Green
+Blue Sky
+
+
+========== MODEL ==========
+.section__title
+Technical SPECIFICATIONS
+
+.model__tooltip-text
+Best Comfort
+Easy Adjustment
+Fast Charge
+Custom Audio
+
+.model__button
+Buy Now
+
+
+========== FOOTER ==========
+.footer__logo
+Apple
+
+footer__title .footer__link
+Shop and Learn
+ Mac
+ iPad
+ iPhone
+ Watch
+
+About Apple
+ Newsroom
+ Apple Leadership
+ Career Opportunities
+ Contact Apple
+
+.footer__input placeholder
+Email
+
+.footer__button
+Subscribe
+
+.footer__social-link
+https://www.instagram.com/
+https://www.facebook.com/
+https://www.x.com/
+
+.footer__copy
+&#169; All Rights Reserved By Hamocodes
